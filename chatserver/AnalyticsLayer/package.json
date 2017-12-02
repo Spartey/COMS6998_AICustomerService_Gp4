@@ -1,0 +1,14 @@
+{
+  "name": "TonerAnalyzer",
+  "version": "0.0.1",
+  "description": "Emotion",
+  "dependencies": {
+    "async": "^2.6.0",
+    "json": "^9.0.6",
+    "utf8": "^2.1.2",
+    "watson-developer-cloud": "^2.42.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
